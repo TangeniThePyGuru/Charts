@@ -41,7 +41,7 @@ $chart = Charts::multi('bar', 'material')
 
 ## Important News
 
-Charts is not in a good state now. Managin new features is a pain and maintain such a long library is painfull. As I'm currently under some free time, I decided to give it a spin, creating the next release of charts as a total rework of the library, from the ground up. The next version will support fewer libraries (at least at the start) and fewer features (no realtime, etc) at the beggining, but will give everyone 100% customization under ANY supported library. That means, yes, you'll finally be able to do what you want and make your charts look like you want. It will be also in a more laravel-releated code style, coding it with classes (more like you code mail / notifications).
+Charts is not in a good state now. Managing new features is a pain and maintain such a long library is painfull. As I'm currently under some free time, I decided to give it a spin, creating the next release of charts as a total rework of the library, from the ground up. The next version will support fewer libraries (at least at the start) and fewer features (no realtime, etc) at the beggining, but will give everyone 100% customization under ANY supported library. That means, yes, you'll finally be able to do what you want and make your charts look like you want. It will be also in a more laravel-releated code style, coding it with classes (more like you code mail / notifications).
 
 Due to this information, I won't accept any new PR and all issues will be formally closed once the new version is live.
 
